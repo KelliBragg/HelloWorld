@@ -1,4 +1,4 @@
-Kelli's document for Hello World. ##This is a markdown file.
+Kelli's document for Hello World.
 While creating accounts and downloading IDE's was easy, I must say that the non-intuitive-for-most-interface of *NIX languages is proving a steep learning curve (so many examples, but the variable names within the examples have no definitions!).
 
 Here it goes...
